@@ -37,8 +37,8 @@ Follow these steps to set up and run the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/rodrigorezende1/RNN-Based-Time-Series-Extrapolation](https://github.com/rodrigorezende1/RNN-Based-Time-Series-Extrapolation)
-RNN-Based-Time-Series-Extrapolation
+git clone [https://github.com/rodrigorezende1/Time-Series-Forecasting-Models]([https://github.com/rodrigorezende1/RNN-Based-Time-Series-Extrapolation](https://github.com/rodrigorezende1/Time-Series-Forecasting-Models))
+cd Time-Series-Forecasting-Models
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
