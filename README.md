@@ -20,12 +20,13 @@ The goal is to train a model on an initial portion of a signal and then use it t
 
 ```
 .
-├── lstm_forecasting.py         # Script for the LSTM model
-├── transformer_forecasting.py  # Script for the Transformer model
-├── requirements.txt            # Required Python packages
-├── README.md                   # 
+├── Models/                         # Models available
+    └── lstm_forecasting.py         # Script for the LSTM model
+    └── transformer_forecasting.py  # Script for the Transformer model
+├── requirements.txt                # Required Python packages
+├── README.md                       # 
 └── data/
-    └── o11_model1.txt          # Example signal data
+    └── o11_model1.txt              # Example signal data
 ```
 
 ---
