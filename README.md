@@ -27,7 +27,11 @@ The goal is to train a model on an initial portion of a signal and then use it t
 ├── requirements.txt                # Required Python packages
 ├── README.md                       # 
 └── data/
-    └── o11_model1.txt              # Example signal data
+    └── o11_model1.txt              # Example signal data 1
+    └── o11_model2.txt              # Example signal data 2
+    └── o21_model1.txt              # Example signal data 3
+    └── i1_model1.txt               # Example signal data 4
+    └── i1_model2.txt               # Example signal data 5
 ```
 
 ---
