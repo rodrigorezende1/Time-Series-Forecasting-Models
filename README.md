@@ -38,7 +38,7 @@ Follow these steps to set up and run the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/rodrigorezende1/Time-Series-Forecasting-Models]([https://github.com/rodrigorezende1/RNN-Based-Time-Series-Extrapolation](https://github.com/rodrigorezende1/Time-Series-Forecasting-Models))
+git clone https://github.com/rodrigorezende1/Time-Series-Forecasting-Models.git
 cd Time-Series-Forecasting-Models
 ```
 
@@ -77,10 +77,10 @@ You can now run either the LSTM or the Transformer script.
 
 ```bash
 # To run the LSTM model
-python lstm_forecasting.py
+python Models/lstm_forecasting.py
 
 # To run the Transformer model
-python transformer_forecasting.py
+python Models/transformer_forecasting.py
 ```
 The script will start the training process and display a plot with the results upon completion.
 
