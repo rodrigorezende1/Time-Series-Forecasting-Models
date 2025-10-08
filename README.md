@@ -21,9 +21,9 @@ The goal is to train a model on an initial portion of a signal and then use it t
 ```
 .
 ├── Models/                         # Models available
-    src/
-        └── lstm_forecasting.py         # Script for the LSTM model
-        └── transformer_forecasting.py  # Script for the Transformer model
+    └── src/
+            └── lstm_forecasting.py         # Script for the LSTM model
+            └── transformer_forecasting.py  # Script for the Transformer model
 ├── requirements.txt                # Required Python packages
 ├── README.md                       # 
 └── data/
