@@ -1,4 +1,4 @@
-# Time-Series Forecasting with LSTMs and Transformers 📈
+# Time-Series-Forecasting-Models 📈
 
 This repository contains Python scripts for time-series extrapolation using **Long Short-Term Memory (LSTM)** and a **Transformer** model. Each model is implemented in a separate script for focused experimentation.
 
