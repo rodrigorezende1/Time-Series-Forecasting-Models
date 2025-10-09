@@ -1,4 +1,4 @@
-#We will be using the Stasmodels library
+#The Stasmodels library will be used
 import numpy as np
 import matplotlib.pyplot as plt
 
